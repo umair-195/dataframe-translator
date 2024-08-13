@@ -22,6 +22,20 @@ This project provides a powerful tool for large-scale text translation tasks. By
 
 Feel free to explore, contribute, or adapt this code to suit your needs. Happy translating!
 
+## Contact
+
+- <a href="https://www.linkedin.com/in/muhammad-umair-arshad/" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/20/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle;"/>
+  <span style="vertical-align: middle;">Muhammad Umair Arshad</span>
+  </a>
+- <a href="mailto:chumair327@gmail.com">
+  <img src="https://img.icons8.com/ios-filled/20/000000/gmail.png" alt="Email" style="vertical-align: middle;"/>
+  <span style="vertical-align: middle;">chumair327@gmail.com</span>
+  </a>
+
+
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
